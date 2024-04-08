@@ -1,0 +1,5 @@
+huggingface_hub
+jinja2
+langchain
+transformers
+gradio
