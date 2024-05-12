@@ -16,7 +16,7 @@ ZenBot is a pioneering multipurpose interactive chatbot designed to revolutioniz
 
 To get started with ZenBot, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/utsav0702/zenbot.git`
+1. Clone the repository: `git clone https://github.com/utsav0702/ZenBot-Elevating-conversations.git`
 2. Install dependencies: `pip install requirements.txt`
 3. Install Ollama for your device:
     -Windows: `https://ollama.com/download/windows`
